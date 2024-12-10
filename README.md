@@ -63,8 +63,6 @@ Open your browser and navigate to http://localhost:8501.
 🔑 API Key Setup
 Replace YOUR_API_KEY in the fetch_poster function with your TMDb API key.
 Obtain your TMDb API key from TMDb.
-📸 Screenshots
-Movie Selection
 
 Recommendations with Posters
 
