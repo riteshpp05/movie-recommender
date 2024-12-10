@@ -1,4 +1,5 @@
 🎥 Movie Recommender System
+
 A content-based movie recommendation app built with Streamlit and powered by TMDb API for fetching movie posters.
 
 🚀 Features
